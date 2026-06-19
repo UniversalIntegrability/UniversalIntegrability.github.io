@@ -1,0 +1,61 @@
+- name: Ivan Corwin
+  email: ic2354@columbia.edu
+  website: https://www.math.columbia.edu/~corwin/
+  image: assets/img/people/IvanCorwin.png
+  description: |
+    Ivan Zachary Corwin is an American mathematician who is a professor of mathematics at Columbia University.
+    His research concerns probability, mathematical physics, quantum integrable systems, stochastic PDEs, and 
+    random matrix theory. He is particularly known for work related to the Kardar–Parisi–Zhang equation.
+
+- name: Amol Aggarwal
+  email: amolagga@gmail.com
+  website: https://profiles.stanford.edu/amol-aggarwal
+  image: assets/img/people/AmolAggarwal.jpg
+  description: |
+    Amol Aggarwal (born 1993) is an American mathematician and mathematical physicist. His research links combinatorics 
+    and probability theory to statistical mechanics. He studies random matrices, examines Gibbs measures for random 
+    tessellations, and serves as a professor of mathematics at Stanford University.
+
+- name: Guillaume Barraquand 
+  email: guillaume.barraquand@ens.fr
+  website: https://www.phys.ens.psl.eu/~barraquand/
+  image: assets/img/people/GuillaumeBarraquand.jpg
+  description: |
+    Probability theory and Mathematical Physics. Integrable probability, KPZ universality class, interacting particle systems, 
+    random directed polymers, random walks in random environment, stochastic PDEs, random matrix theory, vertex models, symmetric functions.
+
+- name: Alexei Borodin
+  email: borodin@math.mit.edu
+  website: https://math.mit.edu/directory/profile.html?pid=1222
+  image: assets/img/people/AlexeiBorodin.png
+  description: |
+    Alexei Mikhailovich Borodin is a professor of mathematics at the Massachusetts Institute of Technology. His research concerns 
+    asymptotic representation theory, relations with random matrices and integrable systems, and the difference equation formulation of monodromy.
+
+- name: Eric Corwin
+  email: ecorwin@uoregon.edu
+  website: https://corwinlab.uoregon.edu/
+  image: assets/img/people/EricCorwin.webp
+  description: |
+    Eric Corwin is a soft matter physicist at the University of Oregon.  His research focuses on out of equilibrium systems with a particular 
+    focus on the extreme statistics of diffusion, and frustrated systems as glasses and jammed solids.
+
+- name: Jeremy Quastel 
+  email: quastel@math.toronto.edu
+  website: https://www.math.toronto.edu/quastel/
+  image: assets/img/people/JeremyQuastel.jpg
+  description: |
+    Jeremy Quastel has been at the University of Toronto since 1998.
+    His research is on the large scale behaviour of interacting particle systems and stochastic partial differential equations, 
+    recently concentrating on the Kardar-Parisi-Zhang universality class, where he and collaborators discovered the first exact 
+    solutions of the KPZ equation, the polymer endpoint distribution, and, more recently the general solution of the model TASEP, 
+    and through it the fixed point of the universality class.
+
+- name: Tomohiro Sasamoto 
+  email: sasamoto@phys.titech.ac.jp
+  website:
+  image: assets/img/people/TomohiroSasamoto.png
+  description: |
+    Tomohiro Sasamoto is a professor of Mathematics at the University of Tokyo.  He is interested in interacting particle systems 
+    from statistical mechanics which have novel physical properties and beautiful mathematical structures.
+
