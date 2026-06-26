@@ -1,11 +1,9 @@
 - name: Ivan Corwin
   email: ic2354@columbia.edu
   website: https://www.math.columbia.edu/~corwin/
-  image: assets/img/people/IvanCorwin.png
+  image: assets/img/people/IvanCorwin.jpg
   description: |
-    Ivan Zachary Corwin is an American mathematician who is a professor of mathematics at Columbia University.
-    His research concerns probability, mathematical physics, quantum integrable systems, stochastic PDEs, and 
-    random matrix theory. He is particularly known for work related to the Kardar–Parisi–Zhang equation.
+    Ivan Corwin is a professor of mathematics and statistics at Columbia University. He is known for his work on solvability of the Kardar-Parisi-Zhang equation (with Quastel and Sasamoto), development of Macdonald processes (with Barraquand and Borodin), theory of Gibbsian line ensembles in conjunction with the Yang-Baxter equation (with Aggarwal and Borodin) and development of extreme diffusion theory (with Barraquand and E. Corwin).
 
 - name: Amol Aggarwal
   email: amolagga@gmail.com
@@ -21,8 +19,7 @@
   website: https://www.phys.ens.psl.eu/~barraquand/
   image: assets/img/people/GuillaumeBarraquand.jpg
   description: |
-    Probability theory and Mathematical Physics. Integrable probability, KPZ universality class, interacting particle systems, 
-    random directed polymers, random walks in random environment, stochastic PDEs, random matrix theory, vertex models, symmetric functions.
+    Guillaume Barraquand is a CNRS researcher in the Physics department (LPENS) of Ecole normale supérieure in Paris. With Ivan Corwin, he introduced an integrable model of random walk in random environment (Beta RWRE). He is also a specialist of the exact solvability of Kardar-Parisi-Zhang class models on bounded domains. 
 
 - name: Alexei Borodin
   email: borodin@math.mit.edu

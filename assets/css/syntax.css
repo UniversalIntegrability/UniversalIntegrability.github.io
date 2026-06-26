@@ -86,8 +86,8 @@
 
 /* Ensure the image container maintains a perfect, un-squeezable square/circle */
 .person-photo {
-  width: 90px;
-  height: 90px;
+  width: 150px;
+  height: 150px;
   flex-shrink: 0; /* CRITICAL: Prevents the container from shrinking horizontally */
 }
 

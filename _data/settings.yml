@@ -7,7 +7,8 @@
 # google-ID: ''
 
 menu:
-- {name: 'People',       url: 'people'}
+- {name: 'People',    url: 'people'}
+- {name: 'Events',    url: 'events'}
 - {name: 'News',      url: 'news'}
 
 
