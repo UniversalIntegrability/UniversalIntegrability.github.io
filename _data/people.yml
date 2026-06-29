@@ -8,11 +8,9 @@
 - name: Amol Aggarwal
   email: amolagga@gmail.com
   website: https://profiles.stanford.edu/amol-aggarwal
-  image: assets/img/people/AmolAggarwal.jpg
+  image: assets/img/people/AmolAggarwal.png
   description: |
-    Amol Aggarwal (born 1993) is an American mathematician and mathematical physicist. His research links combinatorics 
-    and probability theory to statistical mechanics. He studies random matrices, examines Gibbs measures for random 
-    tessellations, and serves as a professor of mathematics at Stanford University.
+    Amol Aggarwal is a professor of mathematics at Stanford University. His work unifies algebraic and analytic methods to prove universality at the interface of probability theory and mathematical physics. He has contributed to the study of random surfaces by proving universality results in random tilings and characterization results for their interface fluctuations; interacting particle systems, by providing a framework using the Yang-Baxter equation to prove Kardar-Parisi-Zhang scaling limits (with Borodin and I. Corwin); and many-body integrable dynamics, by developing a framework to analyze large-scale phenomena for the Toda lattice.
 
 - name: Guillaume Barraquand 
   email: guillaume.barraquand@ens.fr
@@ -24,35 +22,29 @@
 - name: Alexei Borodin
   email: borodin@math.mit.edu
   website: https://math.mit.edu/directory/profile.html?pid=1222
-  image: assets/img/people/AlexeiBorodin.png
+  image: assets/img/people/AlexeiBorodin.jpg
   description: |
-    Alexei Mikhailovich Borodin is a professor of mathematics at the Massachusetts Institute of Technology. His research concerns 
-    asymptotic representation theory, relations with random matrices and integrable systems, and the difference equation formulation of monodromy.
+    Alexei Borodin is a professor of mathematics at MIT. He worked on various methods of Integrable Probability, often of representation theoretic origin, including: solution of TASEP with general initial data (with Sasamoto); solvable (2+1)-dimensional anisotropic KPZ  dynamics; Macdonald processes (with Corwin and Barraquand); Markov duality approach (with Corwin and Sasamoto); stochastic vertex models (with Corwin) and their higher rank versions leading to colored Gibbsian line ensembles (with Aggarwal); and periodic weight dimer models with their tropical limits.
+
 
 - name: Eric Corwin
   email: ecorwin@uoregon.edu
   website: https://corwinlab.uoregon.edu/
   image: assets/img/people/EricCorwin.webp
   description: |
-    Eric Corwin is a soft matter physicist at the University of Oregon.  His research focuses on out of equilibrium systems with a particular 
-    focus on the extreme statistics of diffusion, and frustrated systems as glasses and jammed solids.
+    Eric Corwin is a professor of soft matter physics at the University of Oregon.  His research focuses on out of equilibrium systems with a particular 
+    focus on the extreme statistics of diffusion, and frustrated systems as glasses and jammed solids. 
 
 - name: Jeremy Quastel 
   email: quastel@math.toronto.edu
   website: https://www.math.toronto.edu/quastel/
-  image: assets/img/people/JeremyQuastel.jpg
+  image: assets/img/people/JeremyQuastel.png
   description: |
-    Jeremy Quastel has been at the University of Toronto since 1998.
-    His research is on the large scale behaviour of interacting particle systems and stochastic partial differential equations, 
-    recently concentrating on the Kardar-Parisi-Zhang universality class, where he and collaborators discovered the first exact 
-    solutions of the KPZ equation, the polymer endpoint distribution, and, more recently the general solution of the model TASEP, 
-    and through it the fixed point of the universality class.
+    Jeremy Quastel is a professor of mathematics at the University of Toronto working at the interface of probability and analysis. He developed the theory of hydrodynamic limits, showing that stochastic lattice gases converge to Leray solutions of the incompressible Navier–Stokes equations. His work includes the Brunet–Derrida correction for stochastic KPP fronts and the introduction of white‑noise invariant measures for Hamiltonian PDEs. In the KPZ universality class, he co‑discovered the first exact solutions, introduced weak universality, and—through the general solutions of TASEP and PNG—constructed the KPZ fixed point and revealed its links to integrable nonlinear PDEs.
 
 - name: Tomohiro Sasamoto 
   email: sasamoto@phys.titech.ac.jp
   website:
   image: assets/img/people/TomohiroSasamoto.png
   description: |
-    Tomohiro Sasamoto is a professor of Mathematics at the University of Tokyo.  He is interested in interacting particle systems 
-    from statistical mechanics which have novel physical properties and beautiful mathematical structures.
-
+    Tomohiro Sasamoto is a professor of physics at Institute of Science Tokyo (formerly Tokyo Institute of Technology). He is known for his works on exact solutions of the Kardar-Parisi-Zhang equation and its discrete analogues (with A. Borodin, I. Corwin, Quastel), the development of large deviation theory for non-equilibrium stochastic processes, and the analysis of integrable quantum many-body systems. His research primarily focuses on uncovering universal fluctuation and transport properties in non-equilibrium statistical mechanics.
