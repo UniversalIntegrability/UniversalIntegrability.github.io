@@ -15,7 +15,10 @@ plugins:             [ jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Universality in Integrable Systems"
-description:	       "Simons Targeted Research Group on Universality in Integrable Systems"
+description:	       |
+                      Simons Targeted Research Group on Universality in Integrable Systems
+                      
+                      This [this](that)
 # author:              "Eric Corwin"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
