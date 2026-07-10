@@ -10,6 +10,7 @@ menu:
 - {name: 'People',    url: 'people'}
 - {name: 'Events',    url: 'events'}
 - {name: 'News',      url: 'news'}
+- {name: 'About',     url: 'about'}
 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
